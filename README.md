@@ -1,1 +1,1 @@
-# delete-programms system32
+# removing the system32 program
